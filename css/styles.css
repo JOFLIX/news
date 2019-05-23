@@ -1,0 +1,34 @@
+h2.introduction{
+    color: red;
+    font-size: 18.66px
+}
+
+h1{
+  text-align: center;
+}
+ .introduction{
+   font-style: italic;
+ }
+
+ h2.introduction{
+   font-family: sans-serif;
+ }
+
+ p.introduction{
+   border-radius: 3% solid lightgrey;
+   display: block;
+   flex-direction: column;
+   flex-grow: 50%;
+
+ }
+
+ img.introduction{
+   display: block;
+   float: right;
+   border-top:
+ }
+ .img{
+   display:block;
+   flex-direction: row;
+   border-top: 5px solid red;
+ }
